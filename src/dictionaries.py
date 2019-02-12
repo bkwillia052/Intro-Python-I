@@ -52,3 +52,5 @@ print(waypoints)
 # YOUR CODE HERE
 for place in waypoints: 
     print(place.items())
+
+
